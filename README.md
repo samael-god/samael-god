@@ -45,6 +45,9 @@
 |----------------------------|:-------------------------------------------------------------------|
 | eCommerce (React TeamWork) | [eCommerce](https://prakriti-organic.netlify.app/)     |
 | a-train (Angular TeamWork) | [a-train](https://train-a.netlify.app/home) (admin credentials: admin@admin.com / my-password)    |
+| virtual-keyboard (JS)      | [virtual-keyboard](https://samael-god.github.io/virtual-keyboard/)     |
+| nonogram (JS)              | [nonogram](https://samael-god.github.io/rs-school_nonograms/)     |
+| hangman (JS)               | [hangman](https://samael-god.github.io/rs-school_hangman/)     |
 ---
 
 ### 🔥 &nbsp; My Stats :

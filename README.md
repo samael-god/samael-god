@@ -43,7 +43,7 @@
 
 | Project Title              | Deploy Link                                                        |
 |----------------------------|:-------------------------------------------------------------------|
-| eCommerce (React TeamWork) | [eCommerce](https://prakriti-organic.netlify.app/) (commercetools trial ended 😿 check repository)    |
+| eCommerce (React TeamWork) | [eCommerce](https://prakriti-organic.netlify.app/) (commercetools trial ended 😿 check [repository](https://github.com/samael-god/rs-school_eCommerce))    |
 | a-train (Angular TeamWork) | [a-train](https://train-a.netlify.app/home) (admin credentials: admin@admin.com / my-password)    |
 | virtual-keyboard (JS)      | [virtual-keyboard](https://samael-god.github.io/virtual-keyboard/)     |
 | nonogram (JS)              | [nonogram](https://rolling-scopes-school.github.io/samael-god-JSFE2023Q4/nonograms/)     |
